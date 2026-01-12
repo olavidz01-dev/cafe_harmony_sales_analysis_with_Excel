@@ -49,7 +49,11 @@ The company lacks a consolidated, data-driven view of performance across product
 ## Project Objectives
 This project applies data-driven analysis to evaluate sales performance, inventory efficiency, customer behavior, and staff productivity across locations. 
 
-The goal is to identify operational gaps, optimize decision-making, and support sustainable growth through actionable insights.
+The goal is to:
+- Identify operational gaps
+- Optimize decision-making
+- Support sustainable growth through actionable insights
+- Build a flexible, filterable dashboard for stakeholders
 
 
 ---
@@ -79,31 +83,29 @@ The goal is to identify operational gaps, optimize decision-making, and support 
 - Slicer-enabled interactivity across key fields
 - Excel formulas (like SUMIF, COUNTIF, VLOOKUP) to analyze the data.
 
+<p align="center">
+  <img src="dashboard.png" width="1000" />
+</p>
+
 
 ---
 
 ## Key Insights
 ### Key Performance Indicators (KPI)
-**Analysis & Insight:** 
-- Customers: 1,003
-- Stock Items: 10
-- Employees: 1,000
-- Total Ratings: 1,000
-- Average Customer Rating: 3.0
-- Total Sales Volume: $12,585.95
-
-**Café Harmony** serves 1,003 customers across a lean product range of 10 stock items, supported by a workforce of 1,000 employees. Total sales reached $12,585.95, with customer feedback averaging 3.0 from 1,000 ratings—indicating stable performance with opportunities to improve customer experience and efficiency.
 <p align="center">
   <img src="kpi.png" width="1000" />
 </p>
+
+**Analysis & Insight:** 
+
+**Café Harmony** serves 1,003 customers across a lean product range of 10 stock items, supported by a workforce of 1,000 employees. Total sales reached $12,585.95, with customer feedback averaging 3.0 from 1,000 ratings, indicating stable performance with opportunities to improve customer experience and efficiency.
+
   
-### 2) Rate of turnover per department
+### Sales Trend
 **Analysis & Insight:**
-- **Engineering** is experiencing severe retention challenges with a turnover rate of **150%**, meaning more employees left than the department currently employs, a clear indicator of serious issues related to workload, leadership, or job satisfaction.
-- **Marketing (64%)** and **HR (54%)** also show elevated turnover, suggesting instability and potential disengagement.
-- In contrast, **Sales** has a turnover rate of just **13%**, making it the most stable department and a strong benchmark for effective people management and retention practices.
+Sales show clear seasonality, peaking in January ($1,172) and again around August (~$1,150), before declining sharply toward year-end. Performance drops significantly from September to November, reaching a low in November ($783), indicating a late-year demand slowdown and an opportunity for targeted promotions or demand-boosting initiatives during these months
 <p align="center">
-  <img src="assets/img/Q2.png" width="1000" />
+  <img src="Sales_trend.png" width="1000" />
 </p>
 
 ### 3) Top 3 employees at risk of leaving base on their performance
