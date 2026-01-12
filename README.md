@@ -82,7 +82,6 @@ The goal is to:
 - Charting through bar, line, clustered column, and donut visualizations
 - Slicer-enabled interactivity across key fields
 - Excel formulas (like SUMIF, COUNTIF, VLOOKUP) to analyze the data.
-
 <p align="center">
   <img src="dashboard.png" width="1000" />
 </p>
@@ -92,47 +91,44 @@ The goal is to:
 
 ## Key Insights
 ### Key Performance Indicators (KPI)
+**Analysis & Insight:** 
+**Café Harmony** serves 1,003 customers across a lean product range of 10 stock items, supported by a workforce of 1,000 employees. Total sales reached $12,585.95, with customer feedback averaging 3.0 from 1,000 ratings, indicating stable performance with opportunities to improve customer experience and efficiency.
 <p align="center">
   <img src="kpi.png" width="1000" />
 </p>
 
-**Analysis & Insight:** 
-**Café Harmony** serves 1,003 customers across a lean product range of 10 stock items, supported by a workforce of 1,000 employees. Total sales reached $12,585.95, with customer feedback averaging 3.0 from 1,000 ratings, indicating stable performance with opportunities to improve customer experience and efficiency.
-
   
 ### Sales Trend
-<p align="center">
-  <img src="Sales_trend.png" width="1000" />
-</p>
-
 **Analysis & Insight:**
 Sales show clear seasonality, peaking in January ($1,172) and again around August (~$1,150), before declining sharply toward year-end. Performance drops significantly from September to November, reaching a low in November ($783), indicating a late-year demand slowdown and an opportunity for targeted promotions or demand-boosting initiatives during these months
-
-
-### 3) Top 3 employees at risk of leaving base on their performance
-**Analysis & Insight:**
-- **Grace Wilson** has the lowest average performance score at **3.43**, followed by **Jane Wilson (3.58)** and **Eve Davis (3.65)**, all below the team average.
-- These lower scores indicate potential challenges with role fit, workload, or support, making these employees more vulnerable to disengagement and potential attrition.
-- Without targeted intervention, their performance gaps could translate into increased turnover risk and lost productivity.
 <p align="center">
-  <img src="assets/img/Q33.png" width="1000" />
+  <img src="SalesT.png" width="1000" />
 </p>
 
-### 4) Top reasons why employees are leaving 
+
+### Sales by Gendar
 **Analysis & Insight:**
-- The most common reason for employee departures is **personal reasons (11 exits)**, indicating a need for more flexible working arrangements and stronger employee support.
-- **7** employees left for other **job opportunities**, suggesting competitive pressures related to pay, engagement, or career development.
-- **Career growth limitations (5 exits)** and **retirements (5 exits)** also contribute meaningfully to turnover, highlighting gaps in progression planning and succession management.
+Female customers account for the majority of sales at 54%, compared to 46% from male customers, indicating slightly stronger purchasing engagement among female customers and an opportunity for targeted marketing and product positioning.
 <p align="center">
-  <img src="assets/img/Q4.png" width="1000" />
+  <img src="sales_gendar.png" width="1000" />
 </p>
 
-### 5) Number of employees that left 
+
+### Sales by Location 
 **Analysis & Insight:**
-- A total of **28 employee separations** indicates a meaningful level of turnover that is likely impacting productivity, team continuity, and recruitment costs.
-- When combined with department-level data, this volume of exits highlights particularly strong retention challenges within **Engineering, Marketing, and HR,** reinforcing the need for targeted engagement and retention strategies.
+Uptown recorded the highest sales at $3,360, followed by the Suburbs ($3,245**) and Downtown ($3,107), while the Airport location generated the lowest sales at $2,878. This highlights stronger demand in residential and high-traffic urban areas, suggesting an opportunity to replicate Uptown’s product mix and operating model while reassessing strategy at the Airport location.
 <p align="center">
-  <img src="assets/img/Q5.png" width="1000" />
+  <img src="SalesL.png" width="1000" />
+</p>
+
+### Top-5 Employee by Sales 
+**Analysis & Insight:**
+- Megan White led sales performance at $11,095, followed by Elizabeth Johnson ($10,702), demonstrating strong effectiveness. 
+- Elizabeth Johnson also held the highest sales target ($2,973), reflecting high confidence in her delivery. 
+- William Taylor and William Harris recorded the lowest targets and performance, indicating potential support or capacity gaps. 
+Overall, all team members exceeded targets, suggesting conservative benchmarks or stronger-than-expected execution.
+<p align="center">
+  <img src="emplyee_p.png" width="1000" />
 </p>
 
 ---
