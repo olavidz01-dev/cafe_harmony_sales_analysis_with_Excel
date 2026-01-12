@@ -1,8 +1,6 @@
-# cafe_harmony_sales_analysis_with_Excel
-
-# Employee Success Analysis with SQL - NextGen Corp
+# Cafe Harmony Sales Analysis with Excel
 <p align="center">
-  <img src="assets/img/banner.png" width="1000" />
+  <img src="front_page.png" width="1000" />
 </p>
 
 ---
