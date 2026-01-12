@@ -97,16 +97,17 @@ The goal is to:
 </p>
 
 **Analysis & Insight:** 
-
 **Café Harmony** serves 1,003 customers across a lean product range of 10 stock items, supported by a workforce of 1,000 employees. Total sales reached $12,585.95, with customer feedback averaging 3.0 from 1,000 ratings, indicating stable performance with opportunities to improve customer experience and efficiency.
 
   
 ### Sales Trend
-**Analysis & Insight:**
-Sales show clear seasonality, peaking in January ($1,172) and again around August (~$1,150), before declining sharply toward year-end. Performance drops significantly from September to November, reaching a low in November ($783), indicating a late-year demand slowdown and an opportunity for targeted promotions or demand-boosting initiatives during these months
 <p align="center">
   <img src="Sales_trend.png" width="1000" />
 </p>
+
+**Analysis & Insight:**
+Sales show clear seasonality, peaking in January ($1,172) and again around August (~$1,150), before declining sharply toward year-end. Performance drops significantly from September to November, reaching a low in November ($783), indicating a late-year demand slowdown and an opportunity for targeted promotions or demand-boosting initiatives during these months
+
 
 ### 3) Top 3 employees at risk of leaving base on their performance
 **Analysis & Insight:**
