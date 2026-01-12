@@ -1,4 +1,4 @@
-# Cafe Harmony Sales Analysis with Excel
+## Café Harmony Business Performance Analysis with Excel
 <p align="center">
   <img src="front_page.png" width="1000" />
 </p>
@@ -6,70 +6,93 @@
 ---
 
 ## Business Overview
-**NextGen Corp** is a fast-growing technology company focused on delivering innovative hardware and software solutions in a highly competitive market. The organization has established a strong reputation for attracting high-caliber talent and cultivating a collaborative, performance-driven work environment that supports innovation, productivity, and sustainable growth.
+**Café Harmony** is a fast-growing café chain offering a curated selection of specialty beverages, snacks, and light meals designed to bring people together. In just over one year, the business has expanded across multiple city locations, successfully adapting each outlet to the preferences and purchasing patterns of its local community.
 
-As the company continues to scale, its workforce remains a critical strategic asset. NextGen Corp prioritizes employee satisfaction, fair and competitive compensation, and consistent performance excellence to retain top talent and support long-term business objectives in a rapidly evolving technology landscape.
+As the company scales to meet increasing customer demand, Café Harmony has adopted a data-driven approach to decision-making. By analyzing sales performance, inventory levels, customer behavior, and employee productivity across locations, the business is able to optimize operations, improve customer experience, and identify opportunities for sustainable growth.
+
+Built on a foundation of innovation, consistency, and community engagement, Café Harmony leverages data not only to serve great products, but to create meaningful, repeatable value - one cup at a time.
 
 ---
 
 ## Business Problem 
-Despite its continued growth and strong talent base, NextGen Corp is beginning to experience human-resource challenges that pose potential risks to long-term organizational performance. Recent internal indicators point to emerging issues across three key areas:
-1. **Employee Turnover**
+The company lacks a consolidated, data-driven view of performance across products, customers, inventory, locations, and employees, limiting its ability to scale efficiently and consistently.
 
-Variability in employee retention suggests possible dissatisfaction, increased market competition for talent, or internal operational inefficiencies. Without a clear understanding of the underlying drivers and trends, rising turnover may lead to escalating recruitment and onboarding costs, knowledge loss, and productivity gaps.
+**Key Business Questions**
 
-2. **Performance Variability**
+**1. Product & Menu Performance**
 
-Employee performance levels vary significantly across departments, limiting management’s ability to effectively allocate resources, plan promotions, and identify high-performing or underperforming teams. This lack of visibility reduces confidence in performance-based decision-making.
+- Which food and beverage items drive the highest revenue and margin by location?
 
-3. **Salary Disparities**
+- How should product mix and pricing be optimized?
 
-Concerns have emerged regarding compensation equity among employees in comparable roles. Misalignment between pay, performance, and responsibilities can contribute to reduced morale, disengagement, and increased attrition if left unaddressed.
+**2. Customer Segmentation & Value**
+
+- Who are the highest-value customer segments by demographics?
+
+- How can offerings be tailored to increase loyalty and average spend?
+
+**3. Inventory & Supply Efficiency** 
+
+- Where do stock-outs, overstock, and waste occur?
+
+- How can inventory levels be aligned with demand patterns?
+
+**4. Location & Workforce Performance**
+
+- Which locations and employees outperform or underperform expectations?
+
+- What interventions are needed to ensure consistent service quality?
+
 
 ---
 
 ## Project Objectives
-To ensure continued success, NextGen Corp’s HR department must adopt a structured, analytical approach to workforce management. The organization needs reliable insights to:
-- **Identify trends and patterns in employee retention and turnover**
+This project applies data-driven analysis to evaluate sales performance, inventory efficiency, customer behavior, and staff productivity across locations. 
 
-Understand which departments face the highest turnover and why
-- **Track and evaluate performance consistently across teams**
+The goal is to identify operational gaps, optimize decision-making, and support sustainable growth through actionable insights.
 
-Highlight hhigh-performing employees, address low performance, and maintain productivity standards
-- **Assess the relationship between salary and performance**
-
-Ensure fairness, eliminate unjustified pay gaps, and support employee satisfaction
 
 ---
 
 ## Data Dictionary
-- **Employees Table**: Contains essential employee details like name, job title, hire date, salary, performance score, attendance rate, and department affiliation
-- **Departments Table**: Contains the list of departments within NextGen Corp. (e.g., Engineering, Sales, HR, Marketing).
-- **Performance Table**: Tracks monthly performance scores of employees, allowing you to analyze performance trends over time.
-- **Attendance Table**: Tracks attendance records for employees, including whether they were present or absent.
-- **Turnover Table**: Contains data on employees who left the company, including the reason for leaving.
-- **Salaries Table**: Provides salary data, including historical salary changes for each employee.
-<p align="center">
-  <img src="assets/img/datamodel.png" width="1000" />
-</p>
+
+**1. Sales Data:** Contains information on sales transactions across different locations, including items sold, prices, quantities, and sales dates.
+
+**2. Customer Data:** Customer details such as age, gender, location, and preferred drink items.
+
+**3. Employee Data:** Information about employees (e.g., name, role, salary, location).
+
+**4. Stock Data:** Inventory of raw materials and supplies needed to prepare the café's menu items.
+
+**5. Feedback Data:** Customer satisfaction ratings and comments after each purchase.
+
 
 ---
 
 ## Approach & Methodology
-- Postgres SQL
-- PgAdmin
-- Queries: Select, Order By, Not In, Limit, Where, Left Join, Count, Distinct, Group by, Round, To_char, Sum, Average
-- Data Analysis to identify trends and business recommendations.
+**•	Platform:** Microsoft Excel
+
+**•	Process:**
+- Data cleaning, deduplication, and transformation
+- KPI aggregation using pivot tables
+- Charting through bar, line, clustered column, and donut visualizations
+- Slicer-enabled interactivity across key fields
+- Excel formulas (like SUMIF, COUNTIF, VLOOKUP) to analyze the data.
+
 
 ---
 
-## Employee Retention Analysis
-### 1) Top 5 longest-serving employee
+## Key Insights
+### Key Performance Indicators (KPI)
 **Analysis & Insight:** 
-- The **earliest hire date** in the company is **June 30, 2015**, meaning the longest-serving employee has been with the organization for over 9 years.
-- All five longest-tenured employees were hired between **2015 and 2016**, highlighting a period of exceptionally strong retention.
-- **4 out of the 5** longest-serving employees work in the **Sales department**, indicating that Sales is the most stable team in the organization.
-- This suggests that the hiring practices, leadership, or incentives used during this period, particularly within Sales, were highly effective and could be replicated to improve retention across newer teams.
+- Customers: 1,003
+- Stock Items: 10
+- Employees: 1,000
+- Total Ratings: 1,000
+- Average Customer Rating: 3.0
+- Total Sales Volume: $12,585.95
+
+**Café Harmony** serves 1,003 customers across a lean product range of 10 stock items, supported by a workforce of 1,000 employees. Total sales reached $12,585.95, with customer feedback averaging 3.0 from 1,000 ratings—indicating stable performance with opportunities to improve customer experience and efficiency.
 <p align="center">
   <img src="assets/img/Q1.png" width="1000" />
 </p>
