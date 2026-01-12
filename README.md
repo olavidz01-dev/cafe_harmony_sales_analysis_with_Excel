@@ -94,7 +94,7 @@ The goal is to:
 **Analysis & Insight:** 
 **Café Harmony** serves 1,003 customers across a lean product range of 10 stock items, supported by a workforce of 1,000 employees. Total sales reached $12,585.95, with customer feedback averaging 3.0 from 1,000 ratings, indicating stable performance with opportunities to improve customer experience and efficiency.
 <p align="center">
-  <img src="kpi.png" width="1000" />
+  <img src="kpi.png" width="800" />
 </p>
 
   
@@ -102,7 +102,7 @@ The goal is to:
 **Analysis & Insight:**
 Sales show clear seasonality, peaking in January ($1,172) and again around August (~$1,150), before declining sharply toward year-end. Performance drops significantly from September to November, reaching a low in November ($783), indicating a late-year demand slowdown and an opportunity for targeted promotions or demand-boosting initiatives during these months
 <p align="center">
-  <img src="SalesT.png" width="1000" />
+  <img src="SalesT.png" width="800" />
 </p>
 
 
@@ -110,7 +110,7 @@ Sales show clear seasonality, peaking in January ($1,172) and again around Augus
 **Analysis & Insight:**
 Female customers account for the majority of sales at 54%, compared to 46% from male customers, indicating slightly stronger purchasing engagement among female customers and an opportunity for targeted marketing and product positioning.
 <p align="center">
-  <img src="sales_gendar.png" width="1000" />
+  <img src="sales_gendar.png" width="800" />
 </p>
 
 
@@ -118,8 +118,9 @@ Female customers account for the majority of sales at 54%, compared to 46% from 
 **Analysis & Insight:**
 Uptown recorded the highest sales at $3,360, followed by the Suburbs ($3,245**) and Downtown ($3,107), while the Airport location generated the lowest sales at $2,878. This highlights stronger demand in residential and high-traffic urban areas, suggesting an opportunity to replicate Uptown’s product mix and operating model while reassessing strategy at the Airport location.
 <p align="center">
-  <img src="SalesL.png" width="1000" />
+  <img src="SalesL.png" width="800" />
 </p>
+
 
 ### Top-5 Employee by Sales 
 **Analysis & Insight:**
@@ -128,185 +129,119 @@ Uptown recorded the highest sales at $3,360, followed by the Suburbs ($3,245**) 
 - William Taylor and William Harris recorded the lowest targets and performance, indicating potential support or capacity gaps. 
 Overall, all team members exceeded targets, suggesting conservative benchmarks or stronger-than-expected execution.
 <p align="center">
-  <img src="emplyee_p.png" width="1000" />
+  <img src="emplyee_performance.png" width="800" />
 </p>
 
----
 
-## Employee Performance Analysis
-### 1) Number of employees with a performance score of 5.0
+### Stock Performance
 **Analysis & Insight:** 
-- No employee achieved the maximum performance score of **5.0**, indicating that **top-tier performance is not currently being reached** across the organization.
-- This suggests potential gaps in performance expectations, goal clarity, training, or employee support, which may be limiting overall productivity and engagement.
+Inventory analysis shows that 50% of stock items are below the recommended levels, indicating a potential risk to operations. Only juice concentrate is stocked at the ideal level, while coffee beans, lemon, sandwich bread, and sugar exceed recommended quantities, suggesting overstocking. The remaining items are understocked and require urgent replenishment to prevent stock-outs and service disruption.
 <p align="center">
-  <img src="assets/img/Q6.png" width="1000" />
+  <img src="stockP.png" width="800" />
 </p>
+
   
-### 2) Number of employees with a performance score below 3.5
+### Products Revenue
 **Analysis & Insight:**
-- Only **one employee** has an average performance score **below 3.5**, indicating an early performance risk.
-- While limited in scale, this outlier could signal potential disengagement or skill gaps that, if left unaddressed, may impact productivity and increase the likelihood of future turnover.
+Sales performance is led by Muffin, Cappuccino, and Iced Tea, each exceeding $2,000 in revenue. In contrast, Latte, Croissant, and Sandwich underperformed, generating between $1,837 and $1,957, indicating opportunities for targeted promotion or pricing optimization.
 <p align="center">
-  <img src="assets/img/Q7.png" width="1000" />
+  <img src="productsP.png" width="800" />
 </p>
 
-### 3) Department with the most employees, with a performance of 5.0
+
+### Customer Ratings
 **Analysis & Insight:**
-- No department achieved an average performance score of **5.0**, indicating that **top-tier performance is not being reached at the team level**.
-- While individual employees may perform well, the lack of consistently high departmental averages suggests potential gaps in team alignment, KPI clarity, training, or leadership effectiveness
+Out of 1,000 customer ratings, feedback is mixed. While 416 customers (42%) gave positive ratings (4–5 stars), 378 (38%) rated the product poorly (1–2 stars), and 206 (21%) gave neutral feedback. This distribution results in an average rating of 3.0, indicating moderate satisfaction with notable polarization in customer experience.
 <p align="center">
-  <img src="assets/img/Q8.png" width="1000" />
+  <img src="Ratings.png" width="800" />
 </p>
 
-### 4) Department with the most employees with a performance score below 3.5 
-**Analysis & Insight:**
-- No department has an average performance score below **3.5**, indicating that **performance challenges are not systemic** and are largely limited to individual employees rather than entire teams.
-- This suggests that departmental leadership, training, and operational structures are generally effective and support consistent performance across the organization.
-<p align="center">
-  <img src="assets/img/Q9.png" width="1000" />
-</p>
-
-### 5) Average performance score by department
-**Analysis & Insight:**
-- Departmental performance is highly consistent, with average scores ranging from **4.00 to 4.13**, indicating stable and balanced team performance across the organization.
-- **Marketing** leads slightly within this range, suggesting effective practices that could be shared across other teams, while **Sales**, at the lower end, may benefit from additional support such as clearer KPIs, updated tools, or refresher training.
-<p align="center">
-  <img src="assets/img/Q10.png" width="1000" />
-</p>
-
----
-
-## Salary Analysis
-### 1) Total salary expense of NextGen Corp
-**Analysis & Insight:** 
-- NextGen Corp’s total salary expenditure is **$4,850,000**, representing a significant investment in its workforce and the company’s highest ongoing operational cost.
-- Given the scale of this spend, even small improvements in **retention, performance, or compensation alignment** can generate substantial financial impact and improve overall return on investment in human capital.
-<p align="center">
-  <img src="assets/img/Q11.png" width="1000" />
-</p>
-  
-### 2) Average salary by job title
-**Analysis & Insight:**
-- The **Sales Representative** role has the highest average salary at **$84,285.71**, reflecting strong revenue-driven incentives and the importance of frontline sales performance.
-- **HR Specialists** follow closely at **$81,818.18**, highlighting the company’s investment in talent management and employee relations.
-- Both **Engineers** and **Sales Managers** earn an average of **$80,000**, showing parity between technical expertise and sales leadership.
-- **Marketing Specialists** have the lowest average at **$77,857.14**, indicating competitive but comparatively lower compensation within the organization.
-<p align="center">
-  <img src="assets/img/Q12.png" width="1000" />
-</p>
-
-### 3) How many employees earn above $80,000
-**Analysis & Insight:**
-- A total of **26 employees** earn more than **$80,000**, indicating a strong concentration of senior, specialized, and high-impact roles within NextGen Corp.
-- This reflects a **competitive compensation structure** designed to attract and retain top talent in critical functions such as sales, engineering, and HR leadership.
-<p align="center">
-  <img src="assets/img/Q13.png" width="1000" />
-</p>
-
-### 4) How does performance correlate with salary across departments 
-**Analysis & Insight:**
-- **Marketing** has the highest total salary spend at **$253.9M** and also the highest average performance score **(4.13)**, indicating a strong return on compensation investment.
-- **Engineering** delivers the second-highest performance **(4.10)** with a significantly lower salary cost **($192M)**, making it one of the most cost-efficient teams.
-- **HR** maintains solid performance **(4.05)** with a low total salary of **$49.8M**, reflecting efficient workforce management.
-- **Sales**, with a salary cost of **$24.36M** and the lowest performance score **(4.00)**, shows the greatest opportunity for performance improvement through enhanced training, incentives, or tools.
-<p align="center">
-  <img src="assets/img/Q14.png" width="1000" />
-</p>
 
 ---
 
 ## Recommendations
-### Employee Experience & Engagement
-1. **Enhance Employee Support Programs**
+### 1. Recalibrate Sales Targets & Incentives
+**Why it matters:**
 
-Offer wellness initiatives, stress management resources, family-care policies, and flexible schedules to reduce personal-life attrition.
+All sales employees significantly exceeded their targets, suggesting that the targets may be too conservative.
 
-2. **Build a Positive Culture of Recognition**
+**Actions:** 
+- Reset targets upward using recent performance baselines.
+- Introduce tiered stretch incentives to sustain momentum.
+- Protect morale by pairing higher targets with clearer upside rewards.
 
-Introduce employee appreciation programs, spotlight achievements, and award exceptional contributions to boost morale.
+**Impact:** Higher revenue per employee without increasing headcount.
 
-3. **Improve Internal Mobility**
 
-Allow employees to move across teams or departments before seeking external opportunities.
+### 2. Fix Inventory  Imbalance to Reduce Revenue Leakage
+**Why it matters:** 
+50% of items are understocked while others are overstocked, tying up cash and risking stock-outs.
 
-4. **Create Employee Listening Channels**
+**Actions**
+- Urgently restock high-risk understocked items.
+- Reduce overstock on low-velocity items (e.g., Coffee Beans, Sugar).
+- Implement minimum–maximum stock thresholds tied to sales velocity.
 
-Quarterly surveys, HR open-door policies, and manager check-ins to address issues early.
+**Impact:** Improved product availability, reduced waste, and better cash flow.
 
-### Performance Management
-1. **Standardize Performance Evaluation**
 
-Implement consistent, bias-free performance criteria across all departments to ensure fair and reliable assessments.
+### 3. Double Down on High-Performing Products
+**Why it matters:** 
+Muffin, Cappuccino, and Iced Tea are top revenue drivers, while others lag.
 
-2. **Support Low Performers Early**
+**Actions**
+- Prioritize shelf space, promotions, and bundles around top sellers.
+- Use underperforming products in cross-sell or discount strategies.
+- Review pricing or positioning of consistently low performers.
 
-Provide targeted coaching for employees with performance scores below 3.5, supported by clear improvement plans and measurable milestones.
+**Impact:** Revenue growth without expanding product range.
 
-3. **Build a High-Performance Culture**
 
-Introduce department-level KPIs, expand coaching programs, and offer continuous upskilling to move average performance closer to top-tier benchmarks.
+### 4. Improve Customer Experience Consistency
+**Why it matters:**
+An average rating of 3.0 with polarized feedback indicates inconsistent experiences.
 
-4. **Establish Performance-Based Rewards**
+**Actions**
+- Analyze 1–2 star feedback to identify root causes (service, quality, wait time).
+- Standardize service processes across locations.
+- Tie staff incentives partly to customer satisfaction scores.
 
-Introduce bonuses, recognition programs, and leadership opportunities to motivate high performers and reinforce strong performance trends.
+**Impact:** Higher retention, stronger brand trust, and repeat purchases.
 
-### Turnover & Retention
-1. **Targeted Departments Support**
 
-Engineering, HR, and Marketing show high turnover; prioritize these departments for retention programs, workload assessments, and leadership coaching.
+### 5. Leverage Gender Sales Insights for Targeted Marketing
+**Why it matters:**
+Female customers account for 54% of sales, representing a clear demand signal.
 
-2. **Exit Interview Insights**
+**Actions**
+- Design targeted promotions, loyalty offers, or product bundles.
+- Test messaging and product placement aligned to dominant segments.
 
-Formalize structured exit interviews to uncover root causes behind personal reasons, career growth gaps, and employees finding better jobs.
+**Impact:** Higher conversion and average order value.
 
- 3. **Reduce Personal-Reason Turnover**
 
-Offer flexible work arrangements, improved leave policies, and wellness support to address personal-life–related exits.
+### 6. Build a Performance-Driven Operating Model
 
-4. **Strengthen Career Development**
+**Why it matters:**
+The dashboard shows strong execution but limited predictive control.
 
-Many employees left for “career growth”; create clearer promotion pathways, mentorship programs, and skill development plans.
+**Actions**
+- Introduce forward-looking KPIs (sell-through rate, stock-out risk, satisfaction trend).
+- Review dashboard monthly at the executive level with action ownership assigned.
+- Transition from reporting to decision-driven analytics.
 
-### Salary & Compensation
-1. **Conduct salary benchmarking**
+**Impact:** Faster decisions, scalable growth, and executive visibility.
 
-Compare current salaries with industry standards to ensure competitiveness across all roles, especially marketing specialists and technical roles (engineers).
-
-2. **Review compensation alignment**
-
-Align salary levels with job responsibilities and performance outcomes to maintain fairness and prevent pay inequities.
-
-3. **Strengthen incentive structures**
-
-Maintain strong incentives for sales roles and consider performance-based bonuses for marketing, engineering, and HR to boost motivation.
-
-4. **Build a clear salary progression framework**
-
-Implement transparent salary ranges and growth paths so employees understand how performance and tenure lead to pay increases.
-
----
-
-### Department-specific Recommendations
-1. **Engineering (critical attention needed)**
-- Address causes of 150% turnover: conduct workload audits, enhance leadership support, and improve team morale.
-- Offer technical training and recognition programs to boost satisfaction.
-2. **Marketing & HR (high turnover areas)**
-- Strengthen employee support and engagement.
-- Clarify role expectations, career paths, and growth opportunities.
-- Reassess workload distribution and team structure.
-3. **Sales (strong retention & stability)**
-- Analyze and document sales’ successful retention strategies, leadership style, incentives, onboarding, and replicate what works across other departments.
-4. **Company-wide**
-- Ensure each department receives a tailored retention and performance plan based on turnover rate and average performance score.
 
 ---
 
 ## Executive Summary
-This report analyzes employee performance, compensation, and turnover trends at NextGen Corp to identify risks and opportunities impacting workforce stability and organizational growth. The findings highlight significant retention challenges in Engineering, HR, and Marketing, contrasted with strong stability in Sales. While performance levels are generally consistent across departments, no team has yet reached top-tier performance, indicating opportunities to strengthen performance management and employee development.
+The business is performing strongly, with sales consistently exceeding targets; however, growth is constrained by conservative target setting, inventory imbalances, uneven location performance, and inconsistent customer experience. 
 
-Compensation analysis reveals uneven salary distribution across roles, suggesting the need for better alignment with responsibilities, performance, and market benchmarks. Based on these insights, the report recommends targeted retention initiatives, standardized performance evaluation, competitive and equitable pay structures, and stronger employee support programs.
+Recalibrating sales targets and incentives, rebalancing inventory based on demand, prioritizing high-performing products and locations, and standardizing service quality will unlock higher revenue, improve margins, and reduce operational risk. 
 
-Implementing these actions will help NextGen Corp improve retention, boost productivity, and build a more resilient, high-performing workforce.
+Shifting from descriptive reporting to action-driven KPIs with clear ownership will enable scalable, data-led growth without increasing headcount.
+
 
 ---
 
