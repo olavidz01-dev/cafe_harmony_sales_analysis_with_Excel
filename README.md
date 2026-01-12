@@ -93,7 +93,7 @@ The goal is to:
 ## Key Insights
 ### Key Performance Indicators (KPI)
 <p align="center">
-  <img src="kpi.png" width="1000" />
+  <img src="kpi.jpg" width="1000" />
 </p>
 
 **Analysis & Insight:** 
