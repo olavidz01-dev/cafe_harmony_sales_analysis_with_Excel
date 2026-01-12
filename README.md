@@ -54,6 +54,9 @@ The goal is to:
 - Optimize decision-making
 - Support sustainable growth through actionable insights
 - Build a flexible, filterable dashboard for stakeholders
+<p align="center">
+  <img src="dashboard.png" width="1000" />
+</p>
 
 
 ---
@@ -82,9 +85,6 @@ The goal is to:
 - Charting through bar, line, clustered column, and donut visualizations
 - Slicer-enabled interactivity across key fields
 - Excel formulas (like SUMIF, COUNTIF, VLOOKUP) to analyze the data.
-<p align="center">
-  <img src="dashboard.png" width="1000" />
-</p>
 
 
 ---
