@@ -94,7 +94,7 @@ The goal is to identify operational gaps, optimize decision-making, and support 
 
 **Café Harmony** serves 1,003 customers across a lean product range of 10 stock items, supported by a workforce of 1,000 employees. Total sales reached $12,585.95, with customer feedback averaging 3.0 from 1,000 ratings—indicating stable performance with opportunities to improve customer experience and efficiency.
 <p align="center">
-  <img src="assets/img/Q1.png" width="1000" />
+  <img src="kpi.png" width="1000" />
 </p>
   
 ### 2) Rate of turnover per department
