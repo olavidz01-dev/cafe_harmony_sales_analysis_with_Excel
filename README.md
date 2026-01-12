@@ -92,7 +92,8 @@ The goal is to:
 ## Key Insights
 ### Key Performance Indicators (KPI)
 **Analysis & Insight:** 
-**Café Harmony** serves 1,003 customers across a lean product range of 10 stock items, supported by a workforce of 1,000 employees. Total sales reached $12,585.95, with customer feedback averaging 3.0 from 1,000 ratings, indicating stable performance with opportunities to improve customer experience and efficiency.
+
+**Café Harmony** serves **1,003 customers** across a lean product range of **10 stock items,** supported by a workforce of **1,000 employees.** **Total sales** reached **$12,585.95**, with customer feedback **averaging 3.0** from **1,000 ratings,** indicating stable performance with opportunities to improve customer experience and efficiency.
 <p align="center">
   <img src="kpi.png" width="800" />
 </p>
@@ -100,7 +101,8 @@ The goal is to:
   
 ### Sales Trend
 **Analysis & Insight:**
-Sales show clear seasonality, peaking in January ($1,172) and again around August (~$1,150), before declining sharply toward year-end. Performance drops significantly from September to November, reaching a low in November ($783), indicating a late-year demand slowdown and an opportunity for targeted promotions or demand-boosting initiatives during these months
+
+Sales show clear seasonality, peaking in **January ($1,172)** and again around **August ($1,150)**, before declining sharply toward year-end. Performance drops significantly from September to November, reaching a low in **November ($783)**, indicating a late-year demand slowdown and an opportunity for targeted promotions or demand-boosting initiatives during these months
 <p align="center">
   <img src="SalesT.png" width="800" />
 </p>
@@ -108,7 +110,8 @@ Sales show clear seasonality, peaking in January ($1,172) and again around Augus
 
 ### Sales by Gendar
 **Analysis & Insight:**
-Female customers account for the majority of sales at 54%, compared to 46% from male customers, indicating slightly stronger purchasing engagement among female customers and an opportunity for targeted marketing and product positioning.
+
+**Female** customers account for the majority of sales at **54%,** compared to **46%** from **male** customers, indicating slightly stronger purchasing engagement among female customers and an opportunity for targeted marketing and product positioning.
 <p align="center">
   <img src="sales_gendar.png" width="800" />
 </p>
@@ -116,7 +119,8 @@ Female customers account for the majority of sales at 54%, compared to 46% from 
 
 ### Sales by Location 
 **Analysis & Insight:**
-Uptown recorded the highest sales at $3,360, followed by the Suburbs ($3,245**) and Downtown ($3,107), while the Airport location generated the lowest sales at $2,878. This highlights stronger demand in residential and high-traffic urban areas, suggesting an opportunity to replicate Uptown’s product mix and operating model while reassessing strategy at the Airport location.
+
+**Uptown** recorded the highest sales at **$3,360,** followed by the **Suburbs ($3,245)** and **Downtown ($3,107)**, while the **Airport** location generated the lowest sales at **$2,878**. This highlights stronger demand in residential and high-traffic urban areas, suggesting an opportunity to replicate Uptown’s product mix and operating model while reassessing strategy at the Airport location.
 <p align="center">
   <img src="SalesL.png" width="800" />
 </p>
@@ -124,9 +128,10 @@ Uptown recorded the highest sales at $3,360, followed by the Suburbs ($3,245**) 
 
 ### Top-5 Employee by Sales 
 **Analysis & Insight:**
-- Megan White led sales performance at $11,095, followed by Elizabeth Johnson ($10,702), demonstrating strong effectiveness. 
-- Elizabeth Johnson also held the highest sales target ($2,973), reflecting high confidence in her delivery. 
-- William Taylor and William Harris recorded the lowest targets and performance, indicating potential support or capacity gaps. 
+
+- **Megan White** led sales performance at **$11,095,** followed by **Elizabeth Johnson ($10,702),** demonstrating strong effectiveness. 
+- **Elizabeth Johnson** also held the highest sales target **($2,973)**, reflecting high confidence in her delivery. 
+- **William Taylor** and **William Harris** recorded the lowest targets and performance, indicating potential support or capacity gaps. 
 Overall, all team members exceeded targets, suggesting conservative benchmarks or stronger-than-expected execution.
 <p align="center">
   <img src="emplyee_performance.png" width="800" />
@@ -135,7 +140,8 @@ Overall, all team members exceeded targets, suggesting conservative benchmarks o
 
 ### Stock Performance
 **Analysis & Insight:** 
-Inventory analysis shows that 50% of stock items are below the recommended levels, indicating a potential risk to operations. Only juice concentrate is stocked at the ideal level, while coffee beans, lemon, sandwich bread, and sugar exceed recommended quantities, suggesting overstocking. The remaining items are understocked and require urgent replenishment to prevent stock-outs and service disruption.
+
+Inventory analysis shows that **50%** of stock items are **below the recommended levels**, indicating a potential risk to operations. Only **juice** concentrate is stocked at the **ideal level,** while **coffee beans, lemon, sandwich bread, and sugar exceed recommended quantities**, suggesting overstocking. The remaining items are understocked and require urgent replenishment to prevent stock-outs and service disruption.
 <p align="center">
   <img src="stockP.png" width="800" />
 </p>
@@ -143,7 +149,8 @@ Inventory analysis shows that 50% of stock items are below the recommended level
   
 ### Products Revenue
 **Analysis & Insight:**
-Sales performance is led by Muffin, Cappuccino, and Iced Tea, each exceeding $2,000 in revenue. In contrast, Latte, Croissant, and Sandwich underperformed, generating between $1,837 and $1,957, indicating opportunities for targeted promotion or pricing optimization.
+
+Sales performance is led by **Muffin, Cappuccino, and Iced Tea,** each **exceeding $2,000** in revenue. In contrast, **Latte, Croissant, and Sandwich** underperformed, generating **between $1,837 and $1,957,** indicating opportunities for targeted promotion or pricing optimization.
 <p align="center">
   <img src="productsP.png" width="800" />
 </p>
@@ -151,7 +158,8 @@ Sales performance is led by Muffin, Cappuccino, and Iced Tea, each exceeding $2,
 
 ### Customer Ratings
 **Analysis & Insight:**
-Out of 1,000 customer ratings, feedback is mixed. While 416 customers (42%) gave positive ratings (4–5 stars), 378 (38%) rated the product poorly (1–2 stars), and 206 (21%) gave neutral feedback. This distribution results in an average rating of 3.0, indicating moderate satisfaction with notable polarization in customer experience.
+
+Out of 1,000 customer ratings, feedback is mixed. While **416 customers (42%)** gave positive ratings **(4–5 stars)**, **378 (38%)** rated the product poorly **(1–2 stars)**, and **206 (21%)** gave neutral feedback. This distribution results in an **average rating of 3.0**, indicating moderate satisfaction with notable polarization in customer experience.
 <p align="center">
   <img src="Ratings.png" width="800" />
 </p>
